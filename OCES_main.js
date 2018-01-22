@@ -14,3 +14,5 @@
 var pElt = document.querySelector("p");
 pElt.style.color = "red";
 pElt.style.margin = "50px";
+
+var styleNotifs = document.getElementByClassName("notificationsList__list").style.minWidht = "500px";
